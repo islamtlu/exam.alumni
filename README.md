@@ -7,5 +7,5 @@
     * Student: Islam Muhammad
     * functionalities of the app
         * It is possible to create user
-        * User add entries to Alumni Database
+        * Users add entries to Alumni Database
         * Users can view, delete or edit entries.
